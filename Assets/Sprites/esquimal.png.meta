@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 6800a14512c66414d878ff5aaf325f70
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ojo1
+    21300002: ojo2
+    21300004: cabeza
+    21300006: tronco
+    21300008: nariz
+    21300010: boca
+    21300012: bola2
+    21300014: bola1
+    21300016: hielo
+    21300018: pierna1
+    21300020: pierna2
+    21300022: bola3
+    21300024: brazo1
+    21300026: brazo2
+    21300028: antebrazo2
+    21300030: antebrazo1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 75
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: ojo1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 645
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojo2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 642
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cabeza
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 395
+        width: 343
+        height: 349
+      alignment: 9
+      pivot: {x: .485285193, y: .13362965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tronco
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 404
+        width: 173
+        height: 205
+      alignment: 9
+      pivot: {x: .490274996, y: .134793609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nariz
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 602
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: boca
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 550
+        width: 116
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bola2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bola1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 277
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hielo
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 184
+        width: 142
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pierna1
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 247
+        width: 87
+        height: 119
+      alignment: 9
+      pivot: {x: .58702141, y: .768620312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pierna2
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 245
+        width: 86
+        height: 117
+      alignment: 9
+      pivot: {x: .392403543, y: .766021967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bola3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 151
+        width: 81
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brazo1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 137
+        width: 80
+        height: 88
+      alignment: 9
+      pivot: {x: .80493772, y: .748537779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brazo2
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 145
+        width: 64
+        height: 73
+      alignment: 9
+      pivot: {x: .210835457, y: .661327183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: antebrazo2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 16
+        width: 62
+        height: 116
+      alignment: 9
+      pivot: {x: .33718577, y: .811826169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: antebrazo1
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 38
+        width: 68
+        height: 98
+      alignment: 9
+      pivot: {x: .52474165, y: .84334892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: personajes
+  userData: 

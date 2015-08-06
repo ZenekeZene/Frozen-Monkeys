@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 2ca68ce6b2fa8b8488298b5caef827d3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sudor
+    21300002: ojosE
+    21300004: cabeza
+    21300006: mano1
+    21300008: tronco
+    21300010: mano2
+    21300012: antebrazo2
+    21300014: brazo1
+    21300016: antebrazo1
+    21300018: pierna1
+    21300020: pierna2
+    21300022: oreja1
+    21300024: oreja2
+    21300026: ojo1Frio
+    21300028: ojo2Frio
+    21300030: bocaFMuchoFrio
+    21300032: nariz
+    21300034: ojo1Normal
+    21300036: ojo2Normal
+    21300038: bocaFrio
+    21300040: bocaPocoFrio
+    21300042: ojo1PocoFrio
+    21300044: ojo2PocoFrio
+    21300046: ojo1MuchoFrio
+    21300048: ojo2MuchoFrio
+    21300050: cola
+    21300052: bocaNormal
+    21300054: brazo2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 75
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: sudor
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 756
+        width: 55
+        height: 103
+      alignment: 9
+      pivot: {x: .553735852, y: .748680353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojosE
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 815
+        width: 172
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cabeza
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 578
+        width: 286
+        height: 221
+      alignment: 9
+      pivot: {x: .496555507, y: .0988056958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mano1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 633
+        width: 88
+        height: 90
+      alignment: 9
+      pivot: {x: .15295653, y: .445269763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tronco
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 398
+        width: 135
+        height: 170
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mano2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 545
+        width: 93
+        height: 84
+      alignment: 9
+      pivot: {x: .84957099, y: .464816153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: antebrazo2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 393
+        width: 99
+        height: 90
+      alignment: 9
+      pivot: {x: .793935776, y: .834478736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brazo1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 314
+        width: 75
+        height: 77
+      alignment: 9
+      pivot: {x: .802114248, y: .807062328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: antebrazo1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 303
+        width: 113
+        height: 81
+      alignment: 9
+      pivot: {x: .153681129, y: .834478676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pierna1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 301
+        width: 59
+        height: 85
+      alignment: 9
+      pivot: {x: .312917948, y: .854153991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pierna2
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 304
+        width: 54
+        height: 87
+      alignment: 9
+      pivot: {x: .592909634, y: .81141156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oreja1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 230
+        width: 70
+        height: 78
+      alignment: 9
+      pivot: {x: .739252388, y: .53789109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: oreja2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 238
+        width: 69
+        height: 68
+      alignment: 9
+      pivot: {x: .228725716, y: .485513121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojo1Frio
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 267
+        width: 79
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojo2Frio
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 272
+        width: 74
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bocaFMuchoFrio
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7
+        width: 61
+        height: 211
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nariz
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 206
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojo1Normal
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 211
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojo2Normal
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 217
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bocaFrio
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 28
+        width: 25
+        height: 153
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bocaPocoFrio
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 68
+        width: 57
+        height: 73
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojo1PocoFrio
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 110
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojo2PocoFrio
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 114
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojo1MuchoFrio
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 13
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ojo2MuchoFrio
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 13
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cola
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 107
+        height: 229
+      alignment: 9
+      pivot: {x: .859075308, y: .198860794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bocaNormal
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 82
+        height: 215
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brazo2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 489
+        width: 75
+        height: 81
+      alignment: 9
+      pivot: {x: .138763025, y: .648656785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: personajes
+  userData: 

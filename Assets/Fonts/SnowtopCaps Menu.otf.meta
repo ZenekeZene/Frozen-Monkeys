@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3f9cf61746107824cb0d9242687c41e3
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 25
+  forceTextureCase: 3
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames: []
+  customCharacters: ARTICMONKEYSGXUP L
+  fontRenderingMode: 2
+  userData: 

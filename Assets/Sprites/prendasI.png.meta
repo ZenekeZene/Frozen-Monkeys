@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: b6a84ea99d3a63940862602281a936c7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gorroSin
+    21300002: gorro
+    21300004: brazo1
+    21300006: guantes1
+    21300008: antebrazo1
+    21300010: guantes2
+    21300012: antebrazo2
+    21300014: abrigo
+    21300016: brazo2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 75
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: gorroSin
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 574
+        width: 343
+        height: 324
+      alignment: 9
+      pivot: {x: .50294435, y: .101028442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gorro
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 254
+        width: 343
+        height: 319
+      alignment: 9
+      pivot: {x: .497055769, y: -.132964417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brazo1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 328
+        width: 86
+        height: 82
+      alignment: 9
+      pivot: {x: .758345842, y: .746316671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guantes1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 118
+        width: 142
+        height: 108
+      alignment: 9
+      pivot: {x: .165738493, y: .499999732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: antebrazo1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 211
+        width: 121
+        height: 101
+      alignment: 9
+      pivot: {x: .174496233, y: .819966853}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: guantes2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1
+        width: 143
+        height: 97
+      alignment: 9
+      pivot: {x: .796613336, y: .468765616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: antebrazo2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 11
+        width: 118
+        height: 108
+      alignment: 9
+      pivot: {x: .756753683, y: .864684582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: abrigo
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 199
+        height: 254
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: brazo2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 107
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: personajes
+  userData: 
